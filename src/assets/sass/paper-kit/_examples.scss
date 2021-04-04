@@ -33,7 +33,6 @@
         width: 100%;
         z-index: 1;
     }
-
     &.page-header-small{
         min-height: 65vh !important;
         max-height: 700px;
@@ -235,17 +234,9 @@
         opacity: 1;
     }
 }
-.angular-logo{
-    max-width: 90px;
-    margin: -50px auto 45px;
-
-    img{
-        width: 100%;
-    }
-}
 .page-header{
     .content-center{
-        //margin-top: 85px;
+        margin-top: 85px;
     }
 }
 .moving-clouds{
@@ -268,7 +259,6 @@
         max-width: 70px;
     }
 }
-
 .ie-background{
     .page-header{
         .content-center{
@@ -282,11 +272,14 @@
                 }
             }
         }
+<<<<<<< HEAD
     }
 }
 
 @media (max-width: 500px){
     .presentation-title{
         font-size: 5em;
+=======
+>>>>>>> parent of b40bbb9 (Merge branch 'master' of https://github.com/creativetimofficial/pk2-angular)
     }
 }
